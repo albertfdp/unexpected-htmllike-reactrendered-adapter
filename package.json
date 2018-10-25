@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "object-assign": "^4.0.1",
-    "react-render-hook": "^1.1.1"
+    "react-render-hook": "github:albertfdp/react-render-hook#f753d53"
   }
 }
