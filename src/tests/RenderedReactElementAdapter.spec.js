@@ -1,6 +1,6 @@
 import '../testHelpers/emulateDom';
 import RenderedReactElementAdapter from '../RenderedReactElementAdapter';
-import GlobalHook from 'react-render-hook';
+import GlobalHook from '@albertfdp/react-render-hook';
 import Unexpected from 'unexpected';
 import React from 'react';
 import TestUtils from 'react-dom/test-utils';

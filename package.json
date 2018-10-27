@@ -1,5 +1,5 @@
 {
-  "name": "unexpected-htmllike-reactrendered-adapter",
+  "name": "@albertfdp/unexpected-htmllike-reactrendered-adapter",
   "version": "3.0.4",
   "scripts": {
     "build": "babel src -d lib --source-maps true",
@@ -22,7 +22,7 @@
     "unexpected": "^10.0.2"
   },
   "dependencies": {
-    "object-assign": "^4.0.1",
-    "react-render-hook": "github:albertfdp/react-render-hook#f753d53"
+    "@albertfdp/react-render-hook": "1.2.1",
+    "object-assign": "^4.0.1"
   }
 }
